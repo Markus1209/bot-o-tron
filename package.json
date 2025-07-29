@@ -30,6 +30,6 @@
     "express": "4.19.2",
     "ndjson": "^2.0.0",
     "oboe": "^2.1.5",
-    "prettier": "3.2.5"
+    "prettier": "3.6.2"
   }
 }
